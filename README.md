@@ -9,7 +9,7 @@ In this work, we will use the MCTS algorithm to find the pattern that maximizes 
 
 ## MCTS main phases
 <p align="center">
-<img width="700" height="250" src="https://github.com/MSc-MGomaa/MCTS-For-Rule-learning/blob/4525331259592824dfa5dedab0e781a990711adc/1_UP.png">
+<img width="700" height="250" src="https://github.com/MSc-MGomaa/MCTS-For-Rule-learning/blob/da73e33fd4166c525eee8112b3f32283cf7b2289/1_UP.png">
 </p>
 
 ### (A) Selection phase
