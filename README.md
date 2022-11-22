@@ -76,7 +76,7 @@ In case of categorical datasets, for a nominal feature a, a symbol v, where v âˆ
 
 
 <p align="center">
-<img width="700" height="350" src="https://github.com/MSc-MGomaa/MCTS-For-Rule-learning/blob/36ec2141ade10dc6f6ded6c00ab7b025cc9f4684/ChildrenGE.png">
+<img width="700" height="350" src="https://github.com/MSc-MGomaa/MCTS-For-Rule-learning/blob/c3091fa6580122a5866f53077f113530718c9d5c/ChildrenGE.png">
 </p>
 
 ### Avoid duplicates within the same branch
