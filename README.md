@@ -1,5 +1,5 @@
 # MCTS For Rule-learning.
-How to use the Monte-Carlo Tree Search Algorithm to find the patterns that best describe each class for a given dataset.
+Using the Monte-Carlo Tree Search algorithm to explore a search space for patterns and retrieve the pattern that best describes a particular category.
 
 ## Main Idea
 <p align="justify">
