@@ -99,5 +99,5 @@ In the table below, an example when usising the following configurations, number
 <p align="center">
 <img width="700" height="250" src="https://github.com/MSc-MGomaa/MCTS-For-Rule-learning/blob/f1a3e072a21cea1557c5ff0791be254517e6d6f4/result1.png">
 </p>
-1
+
 
